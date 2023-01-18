@@ -1,0 +1,23 @@
+{
+  "name": "ztm-express",
+  "version": "1.0.0",
+  "description": "ZTM Course Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfahadarif85/ztm-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfahadarif85/ztm-express/issues"
+  },
+  "homepage": "https://github.com/mfahadarif85/ztm-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
